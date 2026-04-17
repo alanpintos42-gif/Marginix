@@ -605,9 +605,7 @@ export default function MarginixLanding() {
                   Dejanos tus datos y analizamos tu cuenta
                 </h2>
                 <p className="mt-4 max-w-xl text-base leading-8 text-slate-300">
-                  No hace falta mostrar tu mail en la web. Este formulario puede
-                  conectarse con Formspree o Resend para que el lead te llegue
-                  directo al correo y vos luego continúes la conversación.
+                  Analizamos tu cuenta de Mercado Libre y detectamos dónde estás perdiendo margen y qué ajustes hacer para mejorar tu rentabilidad.
                 </p>
 
                 <div className="mt-8 space-y-4 rounded-[28px] border border-white/10 bg-white/5 p-6 backdrop-blur-xl">
