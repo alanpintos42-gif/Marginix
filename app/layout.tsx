@@ -12,9 +12,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Marginix",
   description: "Consultoría en pricing y rentabilidad para Mercado Libre",
+  icons: {
+    icon: "/favicon-v2.png",
+  },
 };
 
 export default function RootLayout({
