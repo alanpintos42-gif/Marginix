@@ -16,7 +16,7 @@ export const metadata = {
   title: "Marginix",
   description: "Consultoría en pricing y rentabilidad para Mercado Libre",
   icons: {
-    icon: "/favicon-v2.png",
+    icon: "/favicon.png",
   },
 };
 
