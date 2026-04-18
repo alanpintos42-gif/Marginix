@@ -17,20 +17,24 @@ export default function Icon() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          background: "#06122a",
-          borderRadius: "8px",
+          background: "#06122a", // fondo oscuro sólido
         }}
       >
         <div
           style={{
             color: "#22e3a3",
-            fontSize: 24,
-            fontWeight: 800,
+            fontSize: 22,
+            fontWeight: 900,
+            fontFamily: "Arial, sans-serif",
           }}
         >
           M
         </div>
       </div>
+    ),
+    { ...size }
+  );
+}
     ),
     { ...size }
   );
